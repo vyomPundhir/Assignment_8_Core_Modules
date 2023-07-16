@@ -173,7 +173,7 @@ Q.8 Create a Counter Web App using React
 - Ensure that the counter value is displayed in the UI and updates in real-time when incremented or decremented.
 - Use appropriate React components and hooks to manage the counter state and handle button click events.
 
-Ans. 8 [Source Code Link](https://github.com/yashPundhir/Counter_App_Assignment)
+Ans. 8 [Source Code Link](https://github.com/vyomPundhir/Simple_Counter_App)
 
 ---
 
@@ -181,7 +181,7 @@ Ans. 8 [Source Code Link](https://github.com/yashPundhir/Counter_App_Assignment)
 
 - Use Github Api to get User Data “https://api.github.com/users”
 
-Ans.9 [Source Code Link](https://github.com/yashPundhir/GitHub_User_Finder)
+Ans.9 [Source Code Link](https://github.com/vyomPundhir/GitHub_User_Finder)
 
 ---
 
@@ -198,6 +198,6 @@ Ans.9 [Source Code Link](https://github.com/yashPundhir/GitHub_User_Finder)
 
 **Note**: Refer to the provided image or design specification for the desired layout and styling of the product display in a single row.
 
-Ans.10 [Source Code Link](https://github.com/yashPundhir/E-Comm_Landing_Page)
+Ans.10 [Source Code Link](https://github.com/vyomPundhir/E-Comm_Landing_Page)
 
 ---
